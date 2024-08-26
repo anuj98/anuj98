@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### I am Anuj Upadhyaya (anuj98)
+#### Software engineer from the city of Shillong 🌄, also called Switzerland of the East. Enthusiast in learning new web technologies.
+
+- 🔭 I’m currently working on create a chat app, trying to push 🫸 my front-end UI design potential and also at the same time learn socket notification 🔔 development.
+- 📫 How to reach me: anujupadhyaya8@gmail.com
+- ⚡ Fun fact: I am into Basketball and E-Sports (Valorant).
+  
 [![@anuju's Holopin board](https://holopin.me/anuju)](https://holopin.io/@anuju)
